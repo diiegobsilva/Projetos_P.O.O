@@ -1,0 +1,142 @@
+#background {
+    background-color: #a7c3da  ;
+    height: 100vh;
+    padding: 10px 0;
+}
+
+#titleContainer {
+    background-color: #3094ce;
+    padding: 15px;
+}
+
+#Title {
+    color: #FFF;
+}
+
+#collapsibleContainer {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#historyCollapsibleContainer {
+    width: 100%;
+    margin: 30px auto;
+
+}
+
+#collapsibleHeader:hover {
+    background-color: #1a89c9;
+    color: #FFF;
+}
+
+#collapsibleBody {
+    background-color: #fff;
+}
+
+
+#totalContainer {
+    display: flex;
+    justify-content: flex-end;
+    margin: 3px;
+}
+
+#editDeleteButton {
+    margin: 30px 5px 0px 15px;
+}
+
+#total {
+    margin: 0 5px 0 12px;
+}
+#generoConsumoFont{
+    font-size: 24px;
+    text-align: center;
+}
+
+#addButtonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 15px;
+}
+#cancelButtonContainer {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin: 0px 15px;
+}
+#cagarButao {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    margin: 20px;
+}
+
+
+#historyButtonContainer {
+    margin: 0 20px 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 198px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+#modalLine {
+    margin-bottom: 0;
+}
+
+#cancelButtonContainer {
+    align-items: left;
+    color: rgb(0, 0, 0);
+    background-color: #9e5151;
+}
+
+#cadastrarButtonContainer {
+    color: rgb(0, 0, 0);
+    margin: 0 7px 0 0;
+    background-color: #1a89c9;
+}
+
+#cancelButton {
+    color: #fff;
+}
+
+#sendButton {
+    color: #fff;
+}
+#vendaContainer {
+    background-color: #fce4ec;
+    width: 40%;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+#cancelButtonVendaContainer {
+    color: #FFF;
+    width: 100%;
+    background-color: #c0c0c0;
+}
+
+
+
+#vendaModalLine {
+    margin: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.spanphistorico{
+    background-color: #1a89c9;
+    margin: 10% auto;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    color: #fce4ec;
+}
